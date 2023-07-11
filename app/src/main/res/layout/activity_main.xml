@@ -15,11 +15,24 @@
         android:backgroundTint="#3CA34D"/>
 
     <Button
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="20dp"
         android:id="@+id/btn_b2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Bài 2"
         android:backgroundTint="#CA5D55"/>
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/btn_b3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bai 3"/>
 
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/btn_b4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bai 4"
+        android:backgroundTint="#CA5D55"/>
 </LinearLayout>
